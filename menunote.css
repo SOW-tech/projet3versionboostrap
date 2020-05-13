@@ -1,0 +1,22 @@
+.lanote img {
+	height: 50px;
+	margin-top: 200px;
+} 
+
+.row {
+	text-align: center; 
+	background-color: #FCDFDB;
+	height: 650px;
+	font-family: Apple chancery; 
+	/*margin-left: 80px;
+	margin-right: 80px; */
+}
+
+.row p {
+	font-size: 30px;
+	color: #3d1218;
+}
+
+
+
+ 

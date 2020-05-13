@@ -1,0 +1,54 @@
+.appetit {
+	color: #e3b78e;
+	font-size: 15px;	
+}  
+
+body {
+	text-align: center;
+	font-family: Noteworty light;
+}
+
+.container {
+	background-color: #fef5ff;
+	height: 600px;
+	margin-left: 80px;
+	margin-right: 80px;	
+}
+
+.gourmandises {
+	color: #a188df;
+	margin-top: 30px;
+	font-size: 15px;
+}
+
+h2 {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	color: rgb(214, 151, 123); 
+} 
+
+.plaisir {
+	color: #ac73a2;
+	margin-top: 30px;
+	font-size: 15px;
+}
+
+.row {
+	margin-left: 80px;
+	margin-right: 80px;	
+} 
+
+span.gras {
+	font-weight: bold;   	
+}  
+
+/*col {
+	margin-left: 80px;
+	margin-right: 80px;
+}
+*/
+
+
+
+
+

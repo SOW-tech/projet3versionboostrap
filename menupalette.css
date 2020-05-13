@@ -1,0 +1,44 @@
+.art {
+	margin-top: 30px;
+	font-size: 15px;
+} 
+
+body {
+ 	font-family: Monotype Corsiva;
+	text-align: center;
+}
+
+.container {
+	background-color: #fdfffd;
+	height: 600px;		
+}
+
+.esquisse {
+	font-size: 15px;
+}
+
+h2 {
+	margin-top: 40px;
+	margin-bottom: 40px;
+	color: #94cf7f;
+}
+
+.oeuvre {
+	margin-top: 30px;
+	font-size: 15px;
+} 
+
+.row {
+	margin-left: 80px;
+	margin-right: 80px;
+}
+
+span.gras {
+	font-weight: bold;
+}  
+
+
+
+
+
+

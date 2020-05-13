@@ -1,0 +1,25 @@
+body {
+	font-family: Noteworty light; 
+	text-align: center;
+}
+
+.menu {
+	background-color: #fef5ff;
+	height: 600px;
+	color: rgb(214, 151, 123);	
+}
+
+p {
+	margin-top: 250px;
+	font-size: 30px;
+}
+
+/*.row {
+	margin-left: 80px;
+	margin-right: 80px;
+}*/
+
+
+span.gras {
+	font-weight: bold;
+}

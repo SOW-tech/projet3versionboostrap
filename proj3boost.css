@@ -1,0 +1,98 @@
+body {
+	text-align: center;
+}
+
+.chic a {
+	color: rgb(214, 151, 123);
+}
+
+.délice a {
+    color: rgb(127,168, 243);
+} 
+
+div.menu div.col{
+margin: 20px;
+height: 200px;
+display: flex;
+align-items: center;
+justify-content: center;	
+
+}
+
+div.chic {
+	background-color: #fef5ff;
+	font-family: Noteworty light;
+	color: rgb(214, 151, 123);
+} 
+
+div.délice {
+	background-color: #F9F9F9;
+	font-size: 20px;
+	font-family: Freestyle Script;
+	color: rgb(127,168, 243);
+}
+
+div.note {
+	background-color: #FCDFDB;
+	font-size: 20px;
+	font-family: Apple chancery;	
+}
+
+div.palette {
+	background-color: #FDFFFD;
+	font-size: 20px;
+	font-family: Monotype Corsiva;
+	color: #94cf7f;
+}
+
+footer.basdepage {
+	background-color: #1B5E20; 
+	color: #FFC107; 
+	margin-top: 20px; 	
+}
+
+header.entete {
+	background-color: #1B5E20;
+	color: #FFC107;
+}
+
+nav.prochainement span {
+	display: inline-block;
+	border-radius: 10px;
+	background-color: #1B5E20;
+	color: #FFC107;
+	padding: 10px 60px;
+}
+
+.note img {
+	height: 30px;
+	color: rgb(241,93,97);
+}
+
+.note a {
+	color: #61393E;
+} 
+
+.palette a {
+    color: #94cf7f;
+} 
+
+span.gras {
+	font-weight: bold;
+}
+
+
+
+/*.note span.imgs{
+	background-image:
+	     linear-gradient(to right, white, yellow),
+	    url('images/musical.png');
+	   
+	    height: 40px;
+	    width: 40%;
+	    background-size: cover;
+	    /color: white;/
+	    /padding: 20px;/
+	    background-image: url("images/musical.png");
+}*/
+

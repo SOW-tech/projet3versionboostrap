@@ -1,0 +1,61 @@
+body {
+	text-align: center;
+}
+
+.ensemble {
+	font-family: Apple chancery;
+	background-color: #FCDFDB; 
+	/*margin-left: 80px;
+	margin-right: 80px;*/
+}
+
+footer.basdepage {
+	background-color: #1B5E20; 
+	color: #FFC107; 
+	padding: 5px;
+	margin-top: 15px;
+}
+
+h1 {
+	background-color: #1B5E20;
+	color: #FFC107;
+}
+
+h5 img {
+	margin-right: 10px;
+} 
+
+img {
+    height: 50px;
+}
+
+.menu img{
+	height: 25px;	
+}
+
+.mouvementfinal {
+	font-size: 15px;
+}
+
+.pointdorgue {
+	font-size: 15px;
+} 
+
+.prelude {
+	font-size: 15px;
+}
+
+span.gras {
+	font-weight: bold;   	
+} 
+
+span.tarif {
+font-weight: bold;
+
+}
+
+table
+{
+	/*margin-left: 100px;*/
+
+} 

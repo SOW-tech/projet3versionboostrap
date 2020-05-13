@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	font-family: Freestyle Script; 
+}
+
+.col {
+	background-color: #F9F9F9;
+	height: 600px;
+	/*margin-left: 80px;
+	margin-right: 80px; */
+}
+
+h1 {
+	color: rgb(127, 168, 243);
+}
+
+p {
+	margin-top: 200px;
+	font-size: 30px;
+	color: rgb(127, 168, 243);
+}
+
+
